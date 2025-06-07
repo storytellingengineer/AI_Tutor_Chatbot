@@ -1,4 +1,4 @@
-# AI Tutor Chatbot 🤖
+# AI Tutor Chatbot 🤖 (Work in Progress)
 
 **Day 19 / #90DaysOfAI** — An Interactive AI Tutor Chatbot using RAG (Retrieval-Augmented Generation) built with **LangChain + Streamlit + OpenAI**.
 
